@@ -1,13 +1,13 @@
 # CONTRIBUTING
 
 Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
+please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Setup
 
 ```sh
-$ git clone https://github.com/netlify/victor-hugo
-$ cd victor-hugo
+$ git clone https://github.com/iap/gov
+$ cd gov
 $ npm install
 ```
 
@@ -27,7 +27,7 @@ $ npm run test
 $ npm run test:watch
 ```
 
-## Running the server
+## Running local Server
 
 ```sh
 $ npm run start
@@ -45,5 +45,5 @@ We actively welcome your pull requests.
 
 ## License
 
-By contributing to Victor-Hugo, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+By contributing to Gov, you agree that your contributions will be licensed
+under its [MIT License](LICENSE).
