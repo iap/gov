@@ -1,0 +1,13 @@
+{{ if .IsHome -}}
+<!-- Schema Website -->
+{{ partial "schema/website" . }}
+<!-- Schema Organization -->
+{{ partial "schema/organization" . }}
+{{- else if .IsPage -}}
+<!-- Schema Breadcrumb -->
+{{ partial "schema/breadcrumb" . }}
+<!-- Schema Type Article -->
+{{ if eq .Params.structured.type "Article" }}{{ partial "schema/article" . }}{{ end }}
+<!-- Schema Type Course -->
+{{ if eq .Params.structured.type "Course" }}{{ partial "schema/course" . }}{{ end }}
+{{ end }}

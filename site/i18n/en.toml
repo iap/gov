@@ -1,0 +1,18 @@
+[Home]
+other = "Home"
+
+[About]
+other = "About"
+
+[Code]
+other = "Code"
+
+# 404
+[404]
+  other = "404"
+
+[404_sorry]
+  other = "Sorry, but the page you were trying to view does not exist."
+  
+[404_back]
+  other = "Go Home"

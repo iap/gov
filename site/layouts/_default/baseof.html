@@ -1,25 +1,55 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-
+<html lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en{{ end }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <title>{{ $.Site.Title }}</title>
-
+  
+  <!-- Title -->
+  <title>{{ block "title" . }}{{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}{{ end }}</title>
+  
+  <!-- Meta -->
+  {{ block "meta" . }}{{ partial "meta" . }}{{end}}
+  
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
+  <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
 </head>
 
 <body>
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    
+    <!-- Header -->
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
+    <div class="mdl-layout__drawer">
+      <span class="mdl-layout-title mdl-typography--text-left">
+        <a class="mdl-navigation__link" href="/">Home</a>
+      </span>
+      <nav class="mdl-navigation mdl-typography--text-left">
+        <a class="mdl-navigation__link" href="/about">About</a>
+      </nav>
+    </div>
 
-  {{ block "main" . }}{{end}}
+    <!-- Main Content -->
+    <main class="mdl-layout__content">
+      {{ block "main" . }}{{ end }}
 
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      <!-- MDL Spacer -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Footer inside Main Content -->
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+      {{ partial "schema" . }}
+    </main>
+    
+  </div>
+
+  <!-- Fly Button -->
+  <a href="https://github.com/iap/gov/" target="_blank" id="gov-fly" class="mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">
+    <i class="material-icons">visibility</i>
+  </a>
 
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}

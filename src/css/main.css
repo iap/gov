@@ -1,32 +1,112 @@
 /*
   You can use import statements to include partials:
  */
-@import 'imports/reset.css';
+ @import 'imports/reset.css';
+ @import 'imports/material.min.css';
+ 
+ /*
+   Or add your statements here:
+  */
+ body {
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+     'Droid Sans', 'Helvetica Neue', sans-serif;
+ }
+ 
+ /* Fixes for IE 10 */
+ .mdl-grid {
+   display: flex !important;
+ }
+ 
+ /* Custom CSS */
+ .gov-search-box {
+  -webkit-order: 2;
+  -ms-flex-order: 2;
+  order: 2;
+  margin-left: 16px;
+  margin-right: 16px;
+ }
 
-/*
-  Or add your statements here:
- */
-body {
-  font-size: calc(10px + 1vmin);
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
-    'Droid Sans', 'Helvetica Neue', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ .gov-sky {
+   color: #f6fcffe5;
+ }
 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+ #gov-fly {
+  position: absolute;
+  display: block;
+  right: 0;
+  bottom: 0;
+  margin-right: 30px;
+  margin-bottom: 35px;
+  z-index: 1000;
+ }
+
+ .gov-footer {
+   padding: 16px 16px;
+   /* bottom: 0px;
+   position: fixed; */
+ }
+
+ .gov-footer .mdl-mini-footer__link-list a {
+  font-size: 12px;
+ }
+
+ .hero {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   width: 100%;
+   min-height: 480px;
+   height: 80vh;
+   max-height: 560px;
+   box-sizing: border-box;
+   padding: 48px 48px 32px;
+   overflow: hidden;
+   transform: skewY(8deg);
+   transform-origin: 100%;
+   background-image: linear-gradient(125deg, black, transparent);
+ }
+ 
+ section#intro {
+   display: flex;
+     align-items: center;
+     position: relative;
+     width: 85%;
+     height: 350px;
+     margin: 0 auto -7%;
+ }
+ 
+ section#intro .homepage-container {
+   width: 100%;
+   max-width: 1040px;
+   margin: -7% auto 0;
+   padding-top: 0px;
+   padding-bottom: 0;
+ }
+ 
+ section#intro .hero-headline {
+   font-size: 15px;
+   font-size: 2rem;
+   line-height: 12px;
+   line-height: 2.4rem;
+   font-weight: 500;
+   margin: 32px 0;
+ }
+
+ .mdl-grid.center-items {
   justify-content: center;
-  text-align: center;
-  background-color: #282c34;
-  color: white;
-}
+ }
 
-a {
-  color: pink;
-  text-decoration: none;
-}
+ .mdl-card__table, table{
+   width:100%;
+   margin:0em;
+ }
 
-.content {
-  padding: 0 32px;
-}
+ @media screen and (min-width: 0px) and (max-width: 400px) {
+   #gov-fly { display: block; } /* show it on smaller screen */
+ }
+
+ @media screen and (min-width: 401px) {
+   #gov-fly { display: none; } /* show it on smaller screen */
+ }

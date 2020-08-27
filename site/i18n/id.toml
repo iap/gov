@@ -1,0 +1,18 @@
+[Home]
+other = "Beranda"
+
+[About]
+other = "Mengenai"
+
+[Code]
+other = "Kode"
+
+# 404
+[404]
+  other = "404"
+
+[404_sorry]
+  other = "Maaf, halaman yang kamu kunjungi tidak ditemukan."
+  
+[404_back]
+  other = "Ke Beranda"
