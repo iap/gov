@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "gov",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Web collaboration with government agencies on code, data, information and policies.",
+  "repository": "iap/gov",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
@@ -17,9 +17,10 @@
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
-    "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
+    "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
+    "clean": "rm -rf node_modules"
   },
-  "author": "",
+  "author": "@iap",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.11.1",
