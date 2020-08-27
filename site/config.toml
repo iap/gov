@@ -39,7 +39,7 @@ baseName = "feed"
 
 [params]
     organizationName = "Trade"
-    organizationAddress = "Dr Kusuma Atmaja, 10310 Jakarta"
+    organizationAddress = "Dr Kusuma Atmaja, Menteng, 10310, Jakarta - Indonesia"
     # organizationLogo = "assets/logo.png"
     
     # adsensePublisher = "ca-pub-XXXXXX"
