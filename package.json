@@ -18,7 +18,7 @@
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
-    "clean": "rimraf dis && rm -rf node_modules"
+    "clean": "rimraf dist && rm -rf node_modules"
   },
   "author": "@iap",
   "license": "MIT",
@@ -42,7 +42,7 @@
     "file-loader": "^6.0.0",
     "hugo-bin": "^0.62.3",
     "imports-loader": "^1.1.0",
-    "mini-css-extract-plugin": "^0.10.0",
+    "mini-css-extract-plugin": "^0.11.0",
     "node-sass": "^4.14.1",
     "npm-run-all": "^4.1.5",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
