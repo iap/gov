@@ -4,6 +4,12 @@ other = "Home"
 [About]
 other = "About"
 
+[Privacy]
+other = "Privacy"
+
+[Terms]
+other = "Terms"
+
 [Code]
 other = "Code"
 

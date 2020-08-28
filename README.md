@@ -1,6 +1,6 @@
 <h1 align="center">
   <a>
-    GOV
+    Gov | Governance
   </a>
 </h1>
 

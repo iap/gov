@@ -4,6 +4,12 @@ other = "Beranda"
 [About]
 other = "Mengenai"
 
+[Privacy]
+other = "Privasi"
+
+[Terms]
+other = "Syarat"
+
 [Code]
 other = "Kode"
 
