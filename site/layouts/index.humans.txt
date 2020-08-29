@@ -1,0 +1,7 @@
+/* TEAM */
+Author: Iko
+Location: Jakarta, Indonesia.
+
+/* SITE */
+Standards: HTML5, CSS, Javascript
+Components: Material Design Lite, Webpack, Hugo, PostCSS, Netlify, etc.
