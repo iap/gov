@@ -3,6 +3,7 @@
  */
  @import 'imports/reset.css';
  @import 'imports/material.min.css';
+ @import url("https://use.typekit.net/lxv7dmo.css");
  
  /*
    Or add your statements here:
@@ -13,11 +14,29 @@
  }
  
  /* Fixes for IE 10 */
- .mdl-grid {
+ /* .mdl-grid {
    display: flex !important;
- }
+ } */
  
  /* Custom CSS */
+ .gov-header .mdl-layout__header-row {
+  padding-left: 40px;
+ }
+
+ .gov-content {
+  border-radius: 2px;
+  padding: 80px 56px;
+  margin-top: 45px;
+  margin-bottom: 80px;
+ }
+
+ .gov-container {
+  position: relative;
+  max-width: 1600px;
+  width: calc(100% - 16px);
+  margin: 0 auto;
+ }
+
  .gov-search-box {
   -webkit-order: 2;
   -ms-flex-order: 2;
@@ -43,7 +62,8 @@
  .gov-footer {
    padding: 16px 16px;
    /* bottom: 0px;
-   position: fixed; */
+   position: fixed;
+   width: 100%; */
  }
 
  .gov-footer .mdl-mini-footer__link-list a {
@@ -86,9 +106,9 @@
  }
  
  section#intro .hero-headline {
-   font-size: 15px;
+   /* font-size: calc(100% + 2vw); */
    font-size: 2rem;
-   line-height: 12px;
+   /* line-height: 12px; */
    line-height: 2.4rem;
    font-weight: 500;
    margin: 32px 0;
@@ -103,8 +123,11 @@
    margin:0em;
  }
 
- @media screen and (min-width: 0px) and (max-width: 400px) {
+ @media screen and (min-width: 0px) and (max-width: 500px) {
    #gov-fly { display: block; } /* show it on smaller screen */
+   .gov-content {
+     padding: 15% 10%;
+   }
  }
 
  @media screen and (min-width: 401px) {
