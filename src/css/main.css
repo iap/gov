@@ -61,9 +61,9 @@
 
  .gov-footer {
    padding: 16px 16px;
-   /* bottom: 0px;
+   bottom: 0px;
    position: fixed;
-   width: 100%; */
+   width: 98%;
  }
 
  .gov-footer .mdl-mini-footer__link-list a {
