@@ -4,18 +4,26 @@
 
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
+<meta name="google" value="notranslate">
+{{ if eq (getenv "CONTEXT") "production" }}
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+{{ else }}
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+{{ end }}
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/google_news.html" . -}}
 {{- template "_internal/schema.html" . -}}
 {{- template "_internal/twitter_cards.html" . -}}
-{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ if eq (getenv "CONTEXT") "production" }}
 {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
-
+<link type="text/plain" rel="author" href="{{ "/humans.txt" | relURL }}" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<script src="{{ "js/material.min.js" | relURL }}"></script>
-
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
 {{ $stylesheet := .Site.Data.webpack.main }}
 {{ with $stylesheet.css }}
 <link href="{{ relURL . }}" rel="stylesheet">
 {{ end }}
+<script src="{{ "js/material.min.js" | relURL }}"></script>

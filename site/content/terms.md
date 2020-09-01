@@ -1,10 +1,10 @@
----
-title: "Terms"
-slug: "terms"
-description: "Trade Terms Statement"
-date: "{{ .Date }}"
-layout: "single"
----
++++
+title = "Terms"
+slug = "terms"
+description = "Trade Terms Statement"
+date = ""
+layout = "single"
++++
 
 ## **Terms and Conditions**
 

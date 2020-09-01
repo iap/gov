@@ -1,14 +1,15 @@
----
-title: "About"
-slug: "about"
-description: "About Trade Governance"
-author: "Iko"
-date: "{{ .Date }}"
-layout: "single"
----
++++
+title = "About"
+slug = "about"
+description = "About Trade Governance"
+author = "Iko"
+date = ""
+layout = "single"
+type = "about"
++++
 
 <!-- TODO -->
-# Headline 1
+## Headline 1
 Edit this line 1...
 
 ### Headline 2

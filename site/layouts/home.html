@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $data := index site.Data site.Language.Lang }}
 {{ with .Content }}
 {{ . }}
 {{ end }}

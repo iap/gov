@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
 
 <head>
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 </head>
 
 <body class="mdl-{{ .Kind }}">
+
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header mdl-layout__header--scroll">
       {{ partial "header" . }}
@@ -13,22 +14,26 @@
 
     <div class="mdl-layout__drawer">
       <span class="mdl-layout-title mdl-typography--text-left">
-        <a class="mdl-navigation__link" href="/">Home</a>
+        <a class="mdl-navigation__link" href="/">{{ T "Home" }}</a>
       </span>
       <nav class="mdl-navigation mdl-typography--text-left">
-        <a class="mdl-navigation__link" href="/about">About</a>
+        <a class="mdl-navigation__link" href="/about">{{ T "About" }}</a>
       </nav>
     </div>
 
     <main role="main" class="mdl-layout__content">
-      {{ block "main" . }}{{ end }}
-      {{ partial "footer" . }}
+      {{ block "main" . }}{{ end }}  
     </main>
+
+    {{ partial "footer" . }}
+
   </div>
+
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}
     <script src="{{ relURL . }}"></script>
   {{ end }}
+
 </body>
 
 </html>

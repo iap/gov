@@ -1,16 +1,16 @@
-  <!-- Always shows a footer, even in smaller screens. -->
-  <footer class="gov-footer mdl-mini-footer mdl-color--grey-50">
+{{ $links := .Site.Params.links }}
+    <footer class="gov-footer mdl-mini-footer mdl-color--grey-50">
       <div class="mdl-mini-footer__left-section">
         <ul class="mdl-mini-footer__link-list">
-          <li><a class="mdl-typography--font-light">&copy; {{ now.Year }} Made with ❤️ in Jakarta</a></li>
+          <li><a class="mdl-typography--font-regular">&copy; {{ now.Year }} Made with ❤️ in Jakarta</a></li>
         </ul>
       </div>
-      <div class="mdl-mini-footer__right-section mdl-layout--large-screen-only">
+      <div class="mdl-mini-footer__right-section mdl-cell--hide-phone">
         <ul class="mdl-mini-footer__link-list">
-          <li><a class="mdl-typography--font-light" href="/about">{{ i18n "About" }}</a></li>
-          <li><a class="mdl-typography--font-light" href="/privacy">{{ i18n "Privacy" }}</a></li>
-          <li><a class="mdl-typography--font-light" href="/terms">{{ i18n "Terms" }}</a></li>
-          <li><a class="mdl-typography--font-light" href="https://github.com/iap/gov">{{ i18n "Code" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="/about">{{ T "About" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="/privacy">{{ T "Privacy" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="/terms">{{ T "Terms" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="https://github.com/iap/gov">{{ T "Code" }}</a></li>
         </ul>
       </div>
-  </footer>
+    </footer>
