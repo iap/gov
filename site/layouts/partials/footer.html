@@ -1,4 +1,3 @@
-{{ $links := .Site.Params.links }}
     <footer class="gov-footer mdl-mini-footer mdl-color--grey-50">
       <div class="mdl-mini-footer__left-section">
         <ul class="mdl-mini-footer__link-list">
@@ -7,9 +6,9 @@
       </div>
       <div class="mdl-mini-footer__right-section mdl-cell--hide-phone">
         <ul class="mdl-mini-footer__link-list">
-          <li><a class="mdl-typography--font-regular" href="/about">{{ T "About" }}</a></li>
-          <li><a class="mdl-typography--font-regular" href="/privacy">{{ T "Privacy" }}</a></li>
-          <li><a class="mdl-typography--font-regular" href="/terms">{{ T "Terms" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="{{ "about/" | relLangURL }}">{{ T "About" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="{{ "privacy/" | relLangURL }}">{{ T "Privacy" }}</a></li>
+          <li><a class="mdl-typography--font-regular" href="{{ "terms/" | relLangURL }}">{{ T "Terms" }}</a></li>
           <li><a class="mdl-typography--font-regular" href="https://github.com/iap/gov">{{ T "Code" }}</a></li>
         </ul>
       </div>

@@ -17,7 +17,6 @@
 {{ if eq (getenv "CONTEXT") "production" }}
 {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
-<link type="text/plain" rel="author" href="{{ "/humans.txt" | relURL }}" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
