@@ -1,10 +1,14 @@
 +++
-title = "Terms"
-slug = "terms"
-description = "Trade Terms Statement"
-date = ""
+title = "Syarat"
+slug = "syarat"
+description = "Harap baca perjanjian Ketentuan Layanan ini dengan cermat sebelum mengakses atau menggunakan web atau aplikasi Trade"
+dates = ""
 layout = "single"
 +++
+
+## Syarat dan Ketentuan
+<!-- TODO; Translate me later -->
+Disini adalah translasi dari syarat dan ketentuan dalam bahasa Indonesia.
 
 ## **Terms and Conditions**
 

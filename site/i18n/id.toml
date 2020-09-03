@@ -1,24 +1,33 @@
+# Sections
 [Home]
-other = "Beranda"
-
+  other = "Beranda"
 [About]
-other = "Mengenai"
-
+  other = "Mengenai"
 [Privacy]
-other = "Privasi"
-
+  other = "Privasi"
 [Terms]
-other = "Syarat"
-
+  other = "Syarat"
 [Code]
-other = "Kode"
+  other = "Kode"
+[Tags]
+  one = "Tag"
+  other = "Tags"
+[Categories]
+  one = "Kategori"
+  other = "Kategori"
+
+# Post
+[reading_time]
+  other = "Min Read"
+[read_more]
+  other = "Read More"
+[share_post]
+  other = "Share This Post"
 
 # 404
 [404]
   other = "404"
-
 [404_sorry]
   other = "Maaf, halaman yang kamu kunjungi tidak ditemukan."
-  
-[404_back]
+  [404_back]
   other = "Ke Beranda"

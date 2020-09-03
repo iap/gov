@@ -1,23 +1,23 @@
 <!doctype html>
-<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en{{ end }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
 
 <head>
 {{ partial "head.html" . }}
 </head>
 
 <body class="mdl-{{ .Kind }}">
-
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    
     <header class="mdl-layout__header mdl-layout__header--scroll">
       {{ partial "header" . }}
     </header>
-
+    
     <div class="mdl-layout__drawer">
       <span class="mdl-layout-title mdl-typography--text-left">
-        <a class="mdl-navigation__link" href="/">{{ T "Home" }}</a>
+        <a class="mdl-navigation__link" href="{{ "/" | relLangURL }}">{{ T "Home" }}</a>
       </span>
       <nav class="mdl-navigation mdl-typography--text-left">
-        <a class="mdl-navigation__link" href="/about">{{ T "About" }}</a>
+        <a class="mdl-navigation__link" href="{{ "about/" | relLangURL }}">{{ T "About" }}</a>
       </nav>
     </div>
 

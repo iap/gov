@@ -1,11 +1,9 @@
 +++
-title = "About"
-slug = "about"
+title = "About Us"
+slug = "about-us"
 description = "About Trade Governance"
-author = "Iko"
-date = ""
 layout = "single"
-type = "about"
+draft = false
 +++
 
 <!-- TODO -->
@@ -14,3 +12,5 @@ Edit this line 1...
 
 ### Headline 2
 Edit this line 2...
+
+lorem ispsum
