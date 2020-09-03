@@ -1,51 +1,52 @@
-baseurl                     = "/"
-title                       = "Governance"
-enableRobotsTXT             = true
-#disableKinds               = ["RSS", "taxonomy", "taxonomyTerm"]
-disableHugoGeneratorInject  = "true"
-disqusShortname             = ""
-googleAnalytics             = ""
-#adsensePublisher            = ""
-#pluralizeListTitles         = false
-#disableLanguages            = []
+baseurl                         = "/"
+title                           = "Governance"
+defaultContentLanguage          = "id"
+defaultContentLanguageInSubdir  = false
+enableRobotsTXT                 = true
+#disableKinds                   = ["RSS", "taxonomy", "taxonomyTerm"]
+disableHugoGeneratorInject      = "true"
+disqusShortname                 = ""
+#googleAnalytics                 = ""
+#adsensePublisher                = ""
+#pluralizeListTitles             = false
+#disableLanguages                = []
 
 [markup.goldmark.renderer]
-  unsafe                    = false
+  unsafe                        = false
 
 [outputs]
-  home                      = [ "html", "humans" ]
+  home                          = [ "html", "humans" ]
 
   [outputFormats.humans]
-    baseName                = "humans"
-    isPlainText             = true
-    mediaType               = "text/plain"
+    baseName                    = "humans"
+    isPlainText                 = true
+    mediaType                   = "text/plain"
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post                          = "/:year/:month/:title/"
 
 [params]
-  description               = "Collaborate with government agencies on codes, data, information, policies, and open government efforts."
-  socialShare               = ["whatsapp", "facebook", "twitter", "email"]
-  socialProfiles            = ["https://github.com/iap/gov"]
+  description                   = "Collaborate with government agencies on codes, data, information, policies, and open government efforts."
+  socialShare                   = ["whatsapp", "facebook", "twitter", "email"]
+  socialProfiles                = ["https://github.com/iap/gov"]
 
-[params.ui.readingtime]
-  enable = true
+[params.readingtime]
+  enable                        = true
 
+#[service]
 
 [Languages]
   [Languages.en]
-    LanguageCode            = "en"
-    LanguageName            = "English"
-    weight                  = 2
+    languageCode                = "en"
+    languageName                = "English"
+    contentDir                  = "content/en"
+    weight                      = 1
 
   [Languages.id]
-    LanguageCode            = "id"
-    LanguageName            = "Indonesia"
-    title                   = "Governance"
-    description             = "Bekerja sama dengan lembaga pemerintah dalam kode, data, informasi, kebijakan, dan upaya pemerintahan terbuka."
-    weight                  = 1
+    languageCode                = "id"
+    languageName                = "Indonesia"
+    title                       = "Governance"
+    description                 = "Bekerja sama dengan lembaga pemerintah dalam kode, data, informasi, kebijakan, dan upaya pemerintahan terbuka."
+    contentDir                  = "content/id"
+    weight                      = 2
 
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
