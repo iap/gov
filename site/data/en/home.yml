@@ -1,0 +1,10 @@
+slider:
+  enable : false
+  slider_item:
+    - title : "Gov"
+      content : "Collaborate with government agencies to improve community services and provide proven innovation."
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        label : "Read More"
+        link : "post"
