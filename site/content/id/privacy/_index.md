@@ -7,24 +7,19 @@ layout = "single"
 +++
 
 ## Kebijakan Privasi
-##### ( Kebebasan; Keleluasaan Pribadi )
-<!-- TODO; Translate me later -->
-Kebijakan dalam penggunaan dalam bahasa Indonesia.
 
-## **Privacy Policy**
+Privasi Anda penting bagi kami. Merupakan kebijakan [Trade](https://www.trade.id) (Kami) untuk menghormati privasi Anda terkait informasi apa pun yang mungkin kami kumpulkan dari Anda di seluruh situs web kami, dan situs lain yang kami miliki dan operasikan.
 
-Your privacy is important to us. It is Trade's policy to respect your privacy regarding any information we may collect from you across our website, and other sites we own and operate.
+Kami hanya meminta informasi pribadi ketika kami benar-benar membutuhkannya untuk memberikan layanan kepada Anda. Kami mengumpulkannya dengan cara yang adil dan sah, dengan sepengetahuan dan persetujuan Anda. Kami juga memberi tahu Anda mengapa kami mengumpulkannya dan bagaimana penggunaannya.
 
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+Kami hanya menyimpan informasi yang dikumpulkan selama diperlukan untuk menyediakan layanan yang Anda minta. Data apa yang kami simpan, akan kami lindungi dalam cara yang dapat diterima secara komersial untuk mencegah kehilangan dan pencurian, serta akses, pengungkapan, penyalinan, penggunaan, atau modifikasi yang tidak sah.
 
-We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+Kami tidak membagikan informasi identitas pribadi apa pun secara publik atau dengan pihak ketiga, kecuali jika diwajibkan oleh hukum.
 
-We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+Situs web kami dapat menautkan ke situs eksternal yang tidak dioperasikan oleh kami. Perlu diketahui bahwa kami tidak memiliki kendali atas konten dan praktik situs-situs ini, dan tidak dapat menerima tanggung jawab atau kewajiban untuk kebijakan privasi masing-masing.
 
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+Anda bebas untuk menolak permintaan kami atas informasi pribadi Anda, dengan pemahaman bahwa kami mungkin tidak dapat memberi Anda beberapa layanan yang Anda inginkan.
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
-
-Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+Penggunaan Anda yang berkelanjutan atas situs web kami akan dianggap sebagai penerimaan praktik kami seputar privasi dan informasi pribadi. Jika Anda memiliki pertanyaan tentang bagaimana kami menangani data pengguna dan informasi pribadi, silakan hubungi kami.
 
 This policy is effective as of 19 August 2020.
