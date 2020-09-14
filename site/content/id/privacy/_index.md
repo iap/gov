@@ -6,7 +6,7 @@ dates = ""
 layout = "single"
 +++
 
-## Kebijakan Privasi
+## **Kebijakan Privasi**
 
 Privasi Anda penting bagi kami. Merupakan kebijakan [Trade](https://www.trade.id) (Kami) untuk menghormati privasi Anda terkait informasi apa pun yang mungkin kami kumpulkan dari Anda di seluruh situs web kami, dan situs lain yang kami miliki dan operasikan.
 

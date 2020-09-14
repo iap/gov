@@ -6,117 +6,113 @@ dates = ""
 layout = "single"
 +++
 
-## Syarat dan Ketentuan
-<!-- TODO; Translate me later -->
-Disini adalah translasi dari syarat dan ketentuan dalam bahasa Indonesia.
+## **Syarat dan Ketentuan**
 
-## **Terms and Conditions**
+Selamat datang di [Trade](https://www.trade.id)!
 
-Welcome to Trade!
+Syarat dan ketentuan ini menguraikan aturan dan regulasi untuk penggunaan Situs Web Trade.
 
-These terms and conditions outline the rules and regulations for the use of Trade's Website.
+Dengan mengakses situs web ini, kami menganggap Anda menerima syarat dan ketentuan ini. Jangan terus menggunakan Trade jika Anda tidak setuju untuk mengambil semua syarat dan ketentuan yang disebutkan di halaman ini.
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use Trade if you do not agree to take all of the terms and conditions stated on this page.
-
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+Terminologi (batasan) berikut berlaku untuk Syarat dan Ketentuan ini, Pernyataan Privasi dan Pemberitahuan Sanggahan dan semua Perjanjian: "Klien", "Anda" dan "Milik Anda" mengacu pada Anda, orang yang masuk ke situs web ini dan mematuhi syarat dan ketentuan Perusahaan. "Perusahaan", "Diri Kami", "Kami", "Milik Kami", dan "Kami", mengacu pada Perusahaan kami. "Pihak", "Pihak", atau "Kami", mengacu pada Klien dan diri kami sendiri. Semua istilah mengacu pada penawaran, penerimaan dan pertimbangan pembayaran yang diperlukan untuk melakukan proses bantuan kami kepada Klien dengan cara yang paling tepat untuk tujuan yang jelas untuk memenuhi kebutuhan Klien sehubungan dengan penyediaan layanan yang dinyatakan Perusahaan, sesuai dengan dan tunduk pada, hukum yang berlaku di Belanda. Setiap penggunaan terminologi di atas atau kata lain dalam bentuk tunggal, jamak, huruf besar dan / atau dia, dianggap dapat dipertukarkan dan oleh karena itu merujuk pada yang sama.
 
 ### **Cookies**
 
-We employ the use of cookies. By accessing Trade, you agreed to use cookies in agreement with the Trade's Privacy Policy.
+Kami menggunakan penggunaan cookie. Dengan mengakses Trade, Anda setuju untuk menggunakan cookie sesuai dengan Kebijakan Privasi Trade.
 
-Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
+Sebagian besar situs web interaktif menggunakan cookie untuk memungkinkan kami mengambil detail pengguna untuk setiap kunjungan. Cookie digunakan oleh situs web kami untuk mengaktifkan fungsionalitas area tertentu untuk memudahkan orang mengunjungi situs web kami. Beberapa afiliasi / mitra periklanan kami juga dapat menggunakan cookie.
 
 ### **License**
 
-Unless otherwise stated, Trade and/or its licensors own the intellectual property rights for all material on Trade. All intellectual property rights are reserved. You may access this from Trade for your own personal use subjected to restrictions set in these terms and conditions.
+Kecuali dinyatakan lain (berbeda), Trade dan / atau pemberi lisensinya memiliki hak kekayaan intelektual untuk semua materi di Trade. Semua hak kekayaan intelektual dilindungi. Anda dapat mengakses ini dari Trade untuk penggunaan pribadi Anda dengan tunduk pada batasan yang ditetapkan dalam syarat dan ketentuan ini.
 
-You must not:
+Anda dilarang:
 
-*   Republish material from Trade
-*   Sell, rent or sub-license material from Trade
-*   Reproduce, duplicate or copy material from Trade
-*   Redistribute content from Trade
+* Publikasikan ulang materi dari Trade
+* Menjual, menyewakan, atau mensublisensikan materi dari Trade
+* Mereproduksi, menggandakan, atau menyalin materi dari Trade
+* Mendistribusikan kembali konten dari Trade
 
-Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Trade does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Trade,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Trade shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
+Bagian dari situs web ini menawarkan kesempatan bagi pengguna untuk memposting dan bertukar pendapat dan informasi di area tertentu di situs web. Trade tidak menyaring, mengedit, menerbitkan, atau meninjau Komentar sebelum ada di situs web. Komentar tidak mencerminkan pandangan dan pendapat Trade, agen dan / atau afiliasinya. Komentar mencerminkan pandangan dan opini orang yang memposting pandangan dan opini mereka. Sejauh diizinkan oleh hukum yang berlaku, Trade tidak akan bertanggung jawab atas Komentar atau untuk setiap kewajiban, kerusakan atau biaya yang disebabkan dan / atau diderita sebagai akibat dari penggunaan dan / atau posting dan / atau penampilan komentar di situs web ini.
 
-Trade reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
+Trade berhak memantau semua Komentar dan menghapus setiap Komentar yang dianggap tidak pantas, menyinggung, atau menyebabkan pelanggaran Syarat dan Ketentuan ini.
 
-You warrant and represent that:
+Anda menjamin dan menyatakan bahwa:
 
-*   You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
-*   The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;
-*   The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy
-*   The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
+* Anda berhak memposting Komentar di situs web kami dan memiliki semua lisensi dan persetujuan yang diperlukan untuk melakukannya
+* Komentar tidak melanggar hak kekayaan intelektual apa pun, termasuk tanpa batasan hak cipta, paten, atau merek dagang pihak ketiga mana pun
+* Komentar tidak mengandung materi yang memfitnah, memfitnah, menyinggung, tidak senonoh atau melanggar hukum yang merupakan pelanggaran privasi
+* Komentar tidak akan digunakan untuk meminta atau mempromosikan bisnis atau kebiasaan atau menyajikan aktivitas komersial atau aktivitas yang melanggar hukum
 
-You hereby grant Trade a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
+Anda dengan ini memberi Trade lisensi non-eksklusif untuk menggunakan, mereproduksi, mengedit, dan mengizinkan orang lain untuk menggunakan, mereproduksi, dan mengedit setiap Komentar Anda dalam segala bentuk, format, atau media.
 
-### **Hyperlinking to our Content**
+### **Melakukan Hyperlink ke Konten Kami**
 
-The following organizations may link to our Website without prior written approval:
+Organisasi berikut dapat menautkan ke Situs Web kami tanpa persetujuan tertulis sebelumnya:
 
-*   Government agencies;
-*   Search engines;
-*   News organizations;
-*   Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and
-*   System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.
+* Agensi pemerintahan;
+* Mesin pencari;
+* Organisasi berita;
+* Distributor direktori online dapat menautkan ke Situs web kami dengan cara yang sama seperti mereka membuat tautan ke Situs Web bisnis terdaftar lainnya; dan
+* Bisnis Terakreditasi di seluruh sistem kecuali meminta organisasi nirlaba, pusat perbelanjaan amal, dan grup penggalangan dana amal yang mungkin tidak hyperlink ke situs Web kami.
 
-These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.
+Organisasi-organisasi ini dapat menautkan ke beranda kami, ke publikasi atau ke informasi Situs Web lainnya selama tautan tersebut: (a) sama sekali tidak menipu; (b) tidak secara tidak langsung menyiratkan sponsor, dukungan atau persetujuan dari pihak yang menghubungkan dan produk dan / atau layanannya; dan (c) cocok dengan konteks situs pihak yang menautkan.
 
-We may consider and approve other link requests from the following types of organizations:
+Kami dapat mempertimbangkan dan menyetujui permintaan tautan lain dari jenis organisasi berikut:
 
-*   commonly-known consumer and/or business information sources;
-*   community sites;
-*   associations or other groups representing charities;
-*   online directory distributors;
-*   internet portals;
-*   accounting, law and consulting firms; and
-*   educational institutions and trade associations.
+* sumber informasi konsumen dan / atau bisnis yang umum dikenal;
+* situs komunitas;
+* asosiasi atau kelompok lain yang mewakili badan amal;
+* distributor direktori online;
+* portal internet;
+* firma akuntansi, hukum dan konsultasi; dan
+* lembaga pendidikan dan asosiasi perdagangan.
 
-We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Trade; and (d) the link is in the context of general resource information.
+Kami akan menyetujui permintaan tautan dari organisasi-organisasi ini jika kami memutuskan bahwa: (a) tautan tersebut tidak akan membuat kami terlihat tidak menguntungkan bagi diri kami sendiri atau bisnis terakreditasi kami; (b) organisasi tidak memiliki catatan negatif apa pun dengan kami; (c) keuntungan bagi kami dapat dilihat dari hyperlink dan kompensasi tidak adanya Trade; dan (d) tautan dalam konteks informasi sumber daya umum.
 
-These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
+Organisasi-organisasi ini dapat menautkan ke beranda kami selama tautan tersebut: (a) sama sekali tidak menipu; (b) tidak secara tidak langsung menyiratkan sponsor, dukungan atau persetujuan dari pihak yang menghubungkan dan produk atau layanannya; dan (c) cocok dengan konteks situs pihak yang menautkan.
 
-If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Trade. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
+Jika Anda salah satu organisasi yang tercantum dalam paragraf 2 di atas dan tertarik untuk menautkan ke situs web kami, Anda harus memberi tahu kami dengan mengirimkan email ke Trade. Harap sertakan nama Anda, nama organisasi Anda, informasi kontak serta URL situs Anda, daftar URL apa pun yang ingin Anda tautkan ke Situs web kami, dan daftar URL di situs kami yang ingin Anda tautkan. tautan. Tunggu 2-3 minggu untuk mendapatkan tanggapan.
 
-Approved organizations may hyperlink to our Website as follows:
+Organisasi yang disetujui dapat melakukan hyperlink ke Situs web kami sebagai berikut:
 
-*   By use of our corporate name; or
-*   By use of the uniform resource locator being linked to; or
-*   By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.
+* Dengan menggunakan nama perusahaan kami; atau
+* Dengan menggunakan pencari sumber daya seragam yang ditautkan ke; atau
+* Dengan menggunakan deskripsi lain apa pun dari Situs web kami yang ditautkan yang masuk akal dalam konteks dan format konten di situs pihak yang menautkan.
 
-No use of Trade's logo or other artwork will be allowed for linking absent a trademark license agreement.
+Penggunaan logo Trade atau karya seni lainnya tidak akan diizinkan untuk menghubungkan jika tidak ada perjanjian lisensi merek dagang.
 
 ### **iFrames**
 
-Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.
+Tanpa persetujuan sebelumnya dan izin tertulis, Anda tidak boleh membuat bingkai di sekitar Halaman Web kami yang mengubah presentasi visual atau tampilan Situs Web kami dengan cara apa pun.
 
-### **Content Liability**
+### **Kewajiban Konten**
 
-We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+Kami tidak akan bertanggung jawab atas konten apa pun yang muncul di Situs Web Anda. Anda setuju untuk melindungi dan membela kami dari semua klaim yang muncul di Situs Web Anda. Tidak ada tautan yang muncul di Situs Web mana pun yang dapat ditafsirkan sebagai fitnah, cabul atau kriminal, atau yang melanggar, jika tidak melanggar, atau mendukung pelanggaran atau pelanggaran lain terhadap, hak pihak ketiga mana pun.
 
-### **Your Privacy**
+### **Privasi Anda**
 
-Please read [Privacy Policy](/privacy)
+Silahkan baca [Privacy Policy](/privacy)
 
 ### **Reservation of Rights**
 
-We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
+Kami berhak meminta Anda menghapus semua tautan atau tautan tertentu ke Situs Web kami. Anda setuju untuk segera menghapus semua tautan ke Situs web kami atas permintaan. Kami juga berhak mengubah syarat dan ketentuan ini serta kebijakan penautannya kapan saja. Dengan terus menautkan ke Situs Web kami, Anda setuju untuk terikat dan mengikuti syarat dan ketentuan penautan ini.
 
-### **Removal of links from our website**
+### **Penghapusan tautan dari situs web kami**
 
-If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.
+Jika Anda menemukan tautan apa pun di Situs Web kami yang menyinggung karena alasan apa pun, Anda bebas untuk menghubungi dan memberi tahu kami kapan saja. Kami akan mempertimbangkan permintaan untuk menghapus tautan tetapi kami tidak berkewajiban untuk atau lebih atau untuk menanggapi Anda secara langsung.
 
-We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.
+Kami tidak memastikan bahwa informasi di situs web ini benar, kami tidak menjamin kelengkapan atau keakuratannya; kami juga tidak berjanji untuk memastikan bahwa situs web tetap tersedia atau bahwa materi di situs web selalu diperbarui.
 
-### **Disclaimer**
+### **Pernyataan**
 
-To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:
+Sejauh diizinkan oleh hukum yang berlaku, kami mengecualikan semua pernyataan, jaminan, dan ketentuan yang berkaitan dengan situs web kami dan penggunaan situs web ini. Tidak ada dalam pernyataan ini yang akan:
 
-*   limit or exclude our or your liability for death or personal injury;
-*   limit or exclude our or your liability for fraud or fraudulent misrepresentation;
-*   limit any of our or your liabilities in any way that is not permitted under applicable law; or
-*   exclude any of our or your liabilities that may not be excluded under applicable law.
+* batasi atau kecualikan tanggung jawab kami atau Anda atas kematian atau cedera pribadi;
+* batasi atau kecualikan tanggung jawab kami atau Anda atas penipuan atau kesalahan penafsiran yang menipu;
+* membatasi kewajiban kami atau Anda dengan cara apa pun yang tidak diizinkan berdasarkan hukum yang berlaku; atau
+* mengecualikan salah satu dari kewajiban kami atau Anda yang mungkin tidak dikecualikan berdasarkan hukum yang berlaku.
 
-The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
+Batasan dan larangan tanggung jawab yang ditetapkan dalam bagian ini dan di tempat lain dalam pernyataan tanggung jawab ini: (a) tunduk pada paragraf sebelumnya; dan (b) mengatur semua kewajiban yang timbul berdasarkan pernyataan tanggung jawab hukum, termasuk kewajiban yang timbul dalam kontrak, dan kerugian karena melanggar kewajiban hukum.
 
-As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
+Selama situs web dan informasi serta layanan di situs web disediakan secara gratis, kami tidak akan bertanggung jawab atas kehilangan atau kerusakan dalam bentuk apa pun.
