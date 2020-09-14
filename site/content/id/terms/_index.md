@@ -108,8 +108,8 @@ Kami tidak memastikan bahwa informasi di situs web ini benar, kami tidak menjami
 
 Sejauh diizinkan oleh hukum yang berlaku, kami mengecualikan semua pernyataan, jaminan, dan ketentuan yang berkaitan dengan situs web kami dan penggunaan situs web ini. Tidak ada dalam pernyataan ini yang akan:
 
-* batasi atau kecualikan tanggung jawab kami atau Anda atas kematian atau cedera pribadi;
-* batasi atau kecualikan tanggung jawab kami atau Anda atas penipuan atau kesalahan penafsiran yang menipu;
+* membatasi atau mengecualikan tanggung jawab kami atau Anda atas kematian atau cedera pribadi;
+* membatasi atau mengecualikan tanggung jawab kami atau Anda atas penipuan atau kesalahan penafsiran yang menipu;
 * membatasi kewajiban kami atau Anda dengan cara apa pun yang tidak diizinkan berdasarkan hukum yang berlaku; atau
 * mengecualikan salah satu dari kewajiban kami atau Anda yang mungkin tidak dikecualikan berdasarkan hukum yang berlaku.
 
